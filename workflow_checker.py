@@ -1,5 +1,5 @@
 """
-AI Workflow Animation & Tracker (Unicode-safe)
+AI Workflow Animation & Tracker
 Fun and professional simulation of an AI-assisted workflow.
 
 Author: Tristan Becker
@@ -10,30 +10,46 @@ import time
 import os
 
 # ----------------------
-# ASCII Animation Frames (Safe for Windows / _pyrepl)
+# ASCII Animation Frames (extended)
 # ----------------------
 animation_frames = [
 r"""
-   (O_O)  
+   (•_•)  
 """,
 r"""
-   (O_O)  
+   (•_•)  
    <)   )╯
 """,
 r"""
-   (O_O)  
+   (•_•)  
    <)   )╯  
    /    \
 """,
 r"""
-   (O_O)  
-  (-O-)  Ready for AI workflow!
+   (•_•)  
+  ⌐■-■)  
    <)   )╯  
    /    \
 """,
 r"""
-   (O_O)  
-  (^O^)  AI workflow mode activated!
+   (⌐■_■)  
+   Ready for AI workflow!
+""",
+r"""
+   (⌐■_■)  
+   Engaging AI systems...
+""",
+r"""
+   (⌐■_■)  
+   Automating tasks...
+""",
+r"""
+   (⌐■_■)  
+   Optimizing workflows...
+""",
+r"""
+   (⌐■_■)  
+   All systems go!
 """
 ]
 
@@ -47,6 +63,9 @@ workflow_steps = [
     "Upload documents",
     "Run automated quality checks",
     "Notify team of completion",
+    "Generate compliance report",
+    "Archive documents securely",
+    "Send confirmation to client",
 ]
 
 # ----------------------
@@ -87,3 +106,4 @@ if __name__ == "__main__":
     run_workflow(workflow_steps)        # Simulate workflow steps
     summary(workflow_steps)             # Print final summary
     print("🚀 AI workflow mode activated! Tristan Becker | Chief AI Advisors")
+    print("🌐 Learn more about our AI-enabled systems at: https://chiefaiadvisors.com")
