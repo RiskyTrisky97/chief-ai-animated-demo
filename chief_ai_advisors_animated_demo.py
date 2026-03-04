@@ -5,6 +5,8 @@ Fun and professional simulation of AI-assisted workflows and services.
 Author: Tristan Becker
 Company: Chief AI Advisors
 Website: https://chiefaiadvisors.com
+Toll-Free: +1-833-313-7714
+Email: chiefaiadvisors@gmail.com
 """
 
 import time
@@ -123,7 +125,9 @@ def display_services():
     for service in services:
         print(f"- {service}")
         time.sleep(0.5)
-    print("\nLearn more at: https://chiefaiadvisors.com\n")
+    print("\nLearn more at: https://chiefaiadvisors.com")
+    print("📞 Toll-Free: +1-833-313-7714")
+    print("📧 Email: chiefaiadvisors@gmail.com\n")
 
 # ----------------------
 # Main Execution
@@ -134,6 +138,8 @@ if __name__ == "__main__":
     summary(workflow_steps)             # Print final summary
     print("🚀 AI workflow mode activated! Tristan Becker | Chief AI Advisors")
     print("🌐 Explore all our AI solutions at: https://chiefaiadvisors.com")
+    print("📞 Toll-Free: +1-833-313-7714")
+    print("📧 Email us at: chiefaiadvisors@gmail.com")
     
     time.sleep(1.5)
     display_services()                   # Show company services before exit
