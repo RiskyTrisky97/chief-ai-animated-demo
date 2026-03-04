@@ -1,30 +1,27 @@
-# AI Workflow Animation & Tracker
+# Chief AI Advisors: AI Workflow Animated Demo
 
-A fun and professional simulation of an AI-assisted workflow with ASCII animation.
+This Python demo simulates a fun **AI-assisted workflow** with ASCII animation. It shows step-by-step execution of a compliance-first workflow while keeping things interactive and visual.  
 
-**Author:** Tristan Becker  
-**Company:** [Chief AI Advisors](https://chiefaiadvisors.com)
+**About Chief AI Advisors**  
+Chief AI Advisors is a full-service AI consultancy helping businesses leverage artificial intelligence across multiple domains. Our offerings include:
 
----
+- **AI Workflow Automation** – streamline operations and reduce manual work  
+- **Data Analytics & Insights** – unlock actionable insights from complex data  
+- **Compliance & Reporting** – AI-driven tools to maintain regulatory compliance  
+- **SEO, AEO & Digital Optimization** – AI strategies to boost online visibility  
+- **Custom AI Solutions** – tailored models, tools, and integrations for specific business needs  
+- **AI-Enhanced Client Services** – smarter decision-making, faster reporting, and enhanced client experience  
 
-## Overview
+Learn more about our full suite of services at [https://chiefaiadvisors.com](https://chiefaiadvisors.com).  
 
-This project demonstrates:
+**Features of This Demo**  
+- Animated ASCII demonstration of an AI agent putting on “glasses”  
+- Step-by-step workflow simulation  
+- Workflow summary and final status display  
+- Fully safe to run on Windows by double-clicking the file  
 
-- A **step-by-step AI-assisted workflow simulation**  
-- **ASCII animation** of a character putting on glasses  
-- Workflow **tracking with completion checkmarks**  
-- Final **summary of steps** and company information  
-
-It’s designed to be **compliance-friendly**, **fun**, and **easy to run**.
-
----
-
-## How to Run
-
-1. Make sure you have **Python 3.x** installed.  
-2. Download `ai_workflow_demo.py` to your computer.  
-3. Double-click the file (Windows) or run in terminal/command prompt:
-
-```bash
-python ai_workflow_demo.py
+**Getting Started**  
+1. Download `chief_ai_advisors_animated_demo.py`.  
+2. Double-click the file or run it with Python 3.14+:  
+   ```bash
+   python chief_ai_advisors_animated_demo.py
