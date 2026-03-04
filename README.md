@@ -13,4 +13,4 @@ The project simulates a compliance-first workflow for document-intensive or clie
 ## Usage
 1. Clone this repository:
 ```bash
-git clone https://github.com/<username>/ai_workflow_demo.git
+git clone https://github.com/RiskyTrisky97/ai_workflow_demo.git
