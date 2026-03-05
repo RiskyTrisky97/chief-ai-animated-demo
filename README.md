@@ -28,7 +28,7 @@ We provide end-to-end AI solutions tailored to your business needs, combining in
 
 - 🌐 Website: https://chiefaiadvisors.com
 - 📧 Email: chiefaiadvisors@gmail.com  
-- ☎ Toll-Free: +1-833-313-7714 to the code  
+- ☎ Toll-Free: +1-833-313-7714
 
 ## Getting Started
 
